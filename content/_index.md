@@ -5,25 +5,21 @@ weight: 1
 chapter: false
 ---
 
-    
 # Internship Report
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Full Name:** Nguyen Doan Truong Vi
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Phone Number:** 0886456740
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **Email:** nguyendoantruongvi11@gmail.com
+
+&emsp; **University:** Ho Chi Minh City University of Technology and Engineering
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** AWS082025
+&emsp; **Class:** 23110CLC
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
@@ -31,7 +27,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/avatar.jpg)
 
 ### Report Content
 
